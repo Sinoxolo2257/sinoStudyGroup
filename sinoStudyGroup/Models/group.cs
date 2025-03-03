@@ -6,7 +6,7 @@ using System.Web;
 
 namespace sinoStudyGroup.Models
 {
-    public class group
+    public class Group
     {
         [Display(Name ="Student Number")]
         public string StudentNo { get; set; }
